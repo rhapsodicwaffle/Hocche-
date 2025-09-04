@@ -130,8 +130,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@hocche.com or join our Slack channel.
+For support, ping me!
 
 ---
 
-Made with ❤️ by the Hocche Team
+Adios!
+
